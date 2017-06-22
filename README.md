@@ -6,5 +6,5 @@
 > 5秒之后刷新本页面:
 > - <meta http-equiv="refresh" content="5" />
 > 5秒之后转到梦之都首页:
-> - <meta http-equiv="refresh" content="5; url=http://www.dreamdu.com/" /> 
+```<meta http-equiv="refresh" content="5; url=http://www.dreamdu.com/" /> ```
 >
