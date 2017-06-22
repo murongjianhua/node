@@ -20,9 +20,13 @@
 ```
 ### HTML meta expires 网页缓存过期时间
 > expires 属性值 -- 网页缓存过期时间
+
 > expires用于网页缓存过期时间
+
 > expires出现在http-equiv属性中，使用content属性表示页面缓存的过期时间
+
 > 引用网址:http://www.dreamdu.com/xhtml/expires/
+
 > expires用于设定网页的过期时间,一旦过期就必须从服务器上重新加载.时间必须使用GMT格式.
 ```
 <meta http-equiv="expires" content="Sunday 26 October 2008 01:00 GMT" />
