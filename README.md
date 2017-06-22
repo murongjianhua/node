@@ -12,4 +12,10 @@
 ```<meta http-equiv="refresh" content="5" />```
 > 5秒之后转到梦之都首页:
 ```<meta http-equiv="refresh" content="5; url=http://www.dreamdu.com/" /> ```
->
+
+###  HTML tabindex 属性
+```<p><a href="http://www.dreamdu.com/xhtml/" tabindex="1">1</a>      
+		<a href="http://www.dreamdu.com/css/" tabindex="3">3</a>      
+		<a href="http://www.dreamdu.com/javascript/" tabindex="2">2</a></p>
+		<p>连续按 "Tab",可以改变焦点的位置.遍历的顺序是1-2-3.</p>
+```
